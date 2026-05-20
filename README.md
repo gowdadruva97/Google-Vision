@@ -19,4 +19,5 @@ Company: BSQ Technologies, Mysore, India
 Duration: July 2018 to July 2018
 
 Supervisor: Naveen, Assistant Developer
+
 Institution: NIE Institute of Technology, Mysuru, Department of Information Science and Engineering Affiliated with Visvesweraya Technological University
